@@ -1,0 +1,6 @@
+[submodule "cresca-sdk"]
+	path = cresca-sdk
+	url = https://github.com/SHLOK333/cresca-sdk.git
+[submodule "cresca"]
+	path = cresca
+	url = https://github.com/SHLOK333/cresca.git
